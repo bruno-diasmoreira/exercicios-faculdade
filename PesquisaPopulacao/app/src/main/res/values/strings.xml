@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">PesquisaPopulacao</string>
+    <string name="btnCadastrar">Cadastrar</string>
+    <string name="btnRealizarPesquisa">Realizar Pesquisa</string>
+    <string name="rbMasculino">Masculino</string>
+    <string name="rbFeminimo">Feminino</string>
+    <string name="rbAzul">Azul</string>
+    <string name="rbVerde">Verde</string>
+    <string name="rbCastanho">Castanho</string>
+    <string name="rbLouro">Louro</string>
+    <string name="rbPreto">Preto</string>
+    <string name="btnSalvar">Salvar</string>
+    <string name="tvZero">0</string>
+</resources>

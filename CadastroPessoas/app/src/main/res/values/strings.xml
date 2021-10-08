@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Cadastro</string>
+    <string name="btnCadastrar">Cadastrar Pessoa</string>
+    <string name="tvNome">Nome</string>
+    <string name="tvIdade">Idade</string>
+    <string name="btnSalvar">Salvar</string>
+</resources>
